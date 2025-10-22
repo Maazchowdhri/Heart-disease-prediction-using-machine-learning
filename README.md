@@ -60,11 +60,17 @@ You should see output similar to this in your terminal:
 
  * Serving Flask app 'app'
  * Debug mode: on
- * Running on [http://127.0.0.1:5000](http://127.0.0.1:5000)
+ * Running on <URL name>
 Press CTRL+C to quit
 
 Step 5: Access the UI
 Open your web browser and navigate to the URL provided in the terminal, which is usually:
-http://127.0.0.1:5000
+<Url name>
 
 You should now see the heart disease prediction user interface and can start making predictions!
+# Technologies Used
+1.Python 3.6+
+2.Flask – Web framework
+3.Pandas – Data handling
+4.Scikit-learn – Machine learning model
+5.Tailwind CSS – Frontend design
